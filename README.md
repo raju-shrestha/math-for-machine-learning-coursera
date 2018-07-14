@@ -31,8 +31,106 @@ Practice Quiz: Solving linear equations using the inverse matrix
 
 Programming Assignment: Identifying special matrices
 ### Week 4: Matrices make linear mappings
+Practice Quiz: Non-square matrix multiplication
+
+Practice Quiz: Mappings to spaces with different numbers of dimensions
+
+Programming Assignment: Gram-Schmidt Process
+
+Programming Assignment: Reflecting Bear
 ### Week 5: Eigenvalues and Eigenvectors: Application to Data Problems
-## Course 2: Multivariate Calculus
-## Course 3: PCA
+Practice Quiz: Selecting eigenvectors by inspection
+
+Practice Quiz: Characteristic polynomials, eigenvalues and eigenvectors
+
+Practice Quiz: Diagonalisation and applications
+
+Programming Assignment: Page Rank
+
+Quiz: Eigenvalues and eigenvectors
+## Course 2: [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
+### Week 1: What is calculus?
+Practice Quiz: Matching functions visually
+
+Practice Quiz: Matching the graph of a function to the graph of its derivative
+
+Practice Quiz: Let's differentiate some functions
+
+Practice Quiz: Practicing the product rule
+
+Practice Quiz: Practicing the chain rule
+
+Quiz: Unleashing the toolbox
+### Week 2: Multivariate calculus
+Practice Quiz: Practicing partial differentiation
+
+Practice Quiz: Calculating the Jacobian
+
+Practice Quiz: Bigger Jacobians!
+
+Practice Quiz: Calculating Hessians
+
+Quiz: Assessment – Jacobians and Hessians
+### Week 3: Multivariate chain rule and its applications
+Practice Quiz: Multivariate chain rule exercise
+
+Practice Quiz: Simple Artificial Neural Networks
+
+Practice Quiz: Training Neural Networks
+
+Programming Assignment: Backpropagation
+### Week 4: Taylor series and linearisation
+Practice Quiz: Matching functions and approximations
+
+Practice Quiz: Applying the Taylor series
+
+Practice Quiz: Taylor series - Special cases
+
+Practice Quiz: 2D Taylor series
+
+Quiz: Taylor Series Assessment
+### Week 5: Intro to optimisation
+Practice Quiz: Newton-Raphson in one dimension
+
+Quiz: Checking Newton-Raphson
+
+Practice Quiz: Lagrange multipliers
+
+Quiz: Optimisation scenarios
+### Week 6: Regression
+Practice Quiz: Linear regression
+
+Practice Quiz: Fitting a non-linear function
+
+Programming Assignment: Fitting the distribution of height data
+## Course 3: [PCA](https://www.coursera.org/learn/pca-machine-learning)
+### Week 1: Statistics of Datasets
+Practice Quiz: Mean of datasets
+
+Quiz: Variance of 1D datasets
+
+Practice Quiz: Covariance matrix of a two-dimensional dataset
+
+Programming Assignment: Mean/covariance of a dataset + effect of a linear transformation
+### Week 2: Inner Products
+Practice Quiz: Dot product
+
+Practice Quiz: General inner products: lengths and distances
+
+Quiz: Angles between vectors using a non-standard inner product
+
+Programming Assignment: Inner products and angles
+### Week 3: Orthogonal Projections
+Quiz: Projection onto a 1-dimensional subspace
+
+Practice Quiz: Project 3D data onto a 2D subspace
+
+Programming Assignment: Orthogonal projections
+### Week 4: Principal Component Analysis
+Practice Quiz: Chain rule practice
+
+Reading: Lagrange multipliers
+
+Programming Assignment: PCA
 ## Milestones
 **2018-07-14**: Released this repo!
