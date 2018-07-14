@@ -1,5 +1,5 @@
 # Mathematics for Machine Learning Specialization
-This repo contains all my work for [this specialization](https://www.coursera.org/specializations/mathematics-machine-learning). The courses covers basic mathematics for understanding machine leraning and data science. Highly recommend anyone wanting to master machine learning or data science.
+This repo contains all my work for [this specialization](https://www.coursera.org/specializations/mathematics-machine-learning). The courses cover basic mathematics for understanding machine leraning and data science. Highly recommend anyone wanting to master AI or data science.
 
 All the code, quiz questions, and images are from the specialization. Here I posted these solutions, which are only for your reference purpse and for saving your time. 
 
