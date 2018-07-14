@@ -1,5 +1,5 @@
 # Mathematics for Machine Learning Specialization
-This repo contains all my work for [this specialization](https://www.coursera.org/specializations/mathematics-machine-learning). The courses covers basic mathematics for understandin machine leraning and data science. Highly recommend anyone wanting to master machine learning or data science.
+This repo contains all my work for [this specialization](https://www.coursera.org/specializations/mathematics-machine-learning). The courses covers basic mathematics for understanding machine leraning and data science. Highly recommend anyone wanting to master machine learning or data science.
 
 All the code, quiz questions, and images are from the specialization. Here I posted these solutions, which are only for your reference purpse and for saving your time. 
 
@@ -9,5 +9,12 @@ Creator: [Imperial College London](https://www.imperial.ac.uk/)
 
 ## Course 1: Linear Algebra
 ### Week 1: Introduction to Linear Algebra and to Mathematics for Machine Learning
+Quiz: Solving some simultaneous equations
+Quiz: Exploring parameter space
+Quiz: Doing some vector operations
+### Week 2: Vectors are objects that move around space
+### Week 3: Matrices in Linear Algebra: Objects that operate on Vectors
+### Week 4: Matrices make linear mappings
+### Week 5: Eigenvalues and Eigenvectors: Application to Data Problems
 ## Course 2: Multivariate Calculus
 ## Course 3: PCA
