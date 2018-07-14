@@ -26,7 +26,9 @@ Practice Quiz: Linear dependency of a set of vectors
 Quiz: Vector operations assessment
 ### Week 3: Matrices in Linear Algebra: Objects that operate on Vectors
 Practice Quiz: Using matrices to make transformations
+
 Practice Quiz: Solving linear equations using the inverse matrix
+
 Programming Assignment: Identifying special matrices
 ### Week 4: Matrices make linear mappings
 ### Week 5: Eigenvalues and Eigenvectors: Application to Data Problems
