@@ -7,23 +7,30 @@ Instructor: [D. Dye](https://www.imperial.ac.uk/people/david.dye), [S. J. Cooper
 
 Creator: [Imperial College London](https://www.imperial.ac.uk/)
 
-## Course 1: Linear Algebra
+## Course 1: [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
 ### Week 1: Introduction to Linear Algebra and to Mathematics for Machine Learning
-[Quiz: Solving some simultaneous equations](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%201/Quiz%20-%20Solving%20some%20simultaneous%20equations)
+[Practice Quiz: Solving some simultaneous equations](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%201/Quiz%20-%20Solving%20some%20simultaneous%20equations)
 
-Quiz: Exploring parameter space
+Practice Quiz: Exploring parameter space
 
-Quiz: Doing some vector operations
+Practice Quiz: Doing some vector operations
+
+Quiz: Vector operations assessment
 ### Week 2: Vectors are objects that move around space
-Quiz: Dot product of vectors
+Practice Quiz: Dot product of vectors
 
-Quiz: Changing basis
+Practice Quiz: Changing basis
 
-Quiz: Linear dependency of a set of vectors
+Practice Quiz: Linear dependency of a set of vectors
+
+Quiz: Vector operations assessment
 ### Week 3: Matrices in Linear Algebra: Objects that operate on Vectors
+Practice Quiz: Using matrices to make transformations
+Practice Quiz: Solving linear equations using the inverse matrix
+Programming Assignment: Identifying special matrices
 ### Week 4: Matrices make linear mappings
 ### Week 5: Eigenvalues and Eigenvectors: Application to Data Problems
 ## Course 2: Multivariate Calculus
 ## Course 3: PCA
 ## Milestones
-*2018-07-14*: Released this repo!
+**2018-07-14**: Released this repo!
