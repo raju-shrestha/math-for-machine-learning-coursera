@@ -11,7 +11,7 @@ Creator: [Imperial College London](https://www.imperial.ac.uk/)
 ### Week 1: Introduction to Linear Algebra and to Mathematics for Machine Learning
 [Practice Quiz: Solving some simultaneous equations](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%201/Quiz%20-%20Solving%20some%20simultaneous%20equations)
 
-Practice Quiz: Exploring parameter space
+[Practice Quiz: Exploring parameter space](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%201/Quiz%20-%20Exploring%20parameter%20space)
 
 Practice Quiz: Doing some vector operations
 
