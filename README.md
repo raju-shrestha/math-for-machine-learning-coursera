@@ -13,7 +13,7 @@ Creator: [Imperial College London](https://www.imperial.ac.uk/)
 
 [Practice Quiz: Exploring parameter space](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%201/Quiz%20-%20Exploring%20parameter%20space)
 
-Practice Quiz: Doing some vector operations
+[Practice Quiz: Doing some vector operations'(https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%201/Quiz%20-%20Doing%20some%20vector%20operations)
 
 Quiz: Vector operations assessment
 ### Week 2: Vectors are objects that move around space
