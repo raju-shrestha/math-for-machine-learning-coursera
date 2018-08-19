@@ -18,7 +18,7 @@ Creator: [Imperial College London](https://www.imperial.ac.uk/)
 ### Week 2: Vectors are objects that move around space
 [Practice Quiz: Dot product of vectors](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%202/Quiz%20-%20Dot%20product%20of%20vectors)
 
-Practice Quiz: Changing basis
+[Practice Quiz: Changing basis](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%202/Practice%20Quiz%20-%20Changing%20basis)
 
 Practice Quiz: Linear dependency of a set of vectors
 
