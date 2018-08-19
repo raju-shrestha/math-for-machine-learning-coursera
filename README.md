@@ -16,7 +16,7 @@ Creator: [Imperial College London](https://www.imperial.ac.uk/)
 [Practice Quiz: Doing some vector operations](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%201/Quiz%20-%20Doing%20some%20vector%20operations)
 
 ### Week 2: Vectors are objects that move around space
-Practice Quiz: Dot product of vectors
+[Practice Quiz: Dot product of vectors](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%202/Quiz%20-%20Dot%20product%20of%20vectors)
 
 Practice Quiz: Changing basis
 
