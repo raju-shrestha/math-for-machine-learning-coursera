@@ -22,7 +22,7 @@ Creator: [Imperial College London](https://www.imperial.ac.uk/)
 
 [Practice Quiz: Linear dependency of a set of vectors](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%202/Practice%20Quiz%20-%20Linear%20dependency%20of%20a%20set%20of%20vectors)
 
-Quiz: Vector operations assessment
+[Quiz: Vector operations assessment](https://github.com/wynne-d/math-for-machine-learning-coursera/tree/master/Linear%20Algebra/Week%202/Quiz%20-%20Vector%20operations%20assessment)
 ### Week 3: Matrices in Linear Algebra: Objects that operate on Vectors
 Practice Quiz: Using matrices to make transformations
 
